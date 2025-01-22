@@ -1,3 +1,8 @@
+# STREAMLIT WEB APP SCREENSHOT
+
+![Streamlit Web App](loan_default_web_app.png)
+
+
 # 💸Loan-Default-Prediction-System
 An interactive web app powered by XGBoost and Streamlit, that predicts the likelihood of loan defaults based on various applicant attributes and historical data. The model predicts loan defaults based on key features like credit score, income, loan amount, and more. Designed for efficient risk assessment and decision-making.
 
@@ -24,7 +29,5 @@ Loan defaults pose a significant risk to financial institutions, leading to loss
 ![model_](https://github.com/user-attachments/assets/bdf820f5-a515-484a-9e0c-1a879b8648ee)
 
 
-# STREAMLIT WEB APP SCREENSHOT
 
-![Streamlit Web App](loan_default_web_app.png)
 
