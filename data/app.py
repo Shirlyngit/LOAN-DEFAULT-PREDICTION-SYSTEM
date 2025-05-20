@@ -19,7 +19,7 @@ with open('encoding_map.json', 'r') as f:
     encoding_map = json.load(f)
 
 # Load the trained meta-model
-with open('catboost_model.pkl', 'rb') as f:
+with open('xgboost_model.pkl', 'rb') as f:
     meta_model = pickle.load(f)
 
 # Define the expected input features (excluding 'Default')
